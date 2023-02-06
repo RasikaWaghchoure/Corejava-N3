@@ -56,3 +56,11 @@ public class OperatorDemo {
 	}
 
 }
+
+/*
+  if(age>=18 && weight>=40)
+  {
+  	sop("You are eligible";)
+  }
+  
+ */
