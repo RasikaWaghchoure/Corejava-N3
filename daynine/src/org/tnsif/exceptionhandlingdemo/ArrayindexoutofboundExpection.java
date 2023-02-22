@@ -1,4 +1,4 @@
-package org.tnsif.exceptionhandlingdemo;
+/*package org.tnsif.exceptionhandlingdemo;
 
 public class ArrayindexoutofboundExpection {
 
@@ -24,4 +24,4 @@ public class ArrayindexoutofboundExpection {
 
 	}
 
-}
+}*/
