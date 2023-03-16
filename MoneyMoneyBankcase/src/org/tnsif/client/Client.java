@@ -15,7 +15,7 @@ public class Client {
 				System.out.println(s);
 				s.withdraw(s.getAccBal());
 				
-				//saving acc
+				//current acc
 				System.out.println("Current Acc");
 				System.out.println(c);
 				c.withdraw(c.getAccBal());
